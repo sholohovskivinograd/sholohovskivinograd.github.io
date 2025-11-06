@@ -1,0 +1,44 @@
+#+title:  Шолоховский виноград и саженцы
+#+author: Яицков Сергей Николаевич
+#+date:   2025-11-10
+#+HTML_DOCTYPE: html5
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
+#+HTML_HEAD: <script async src="https://www.googletagmanager.com/gtag/js?id=G-RVVYHN0DKK"></script>
+#+HTML_HEAD: <script>
+#+HTML_HEAD:   window.dataLayer = window.dataLayer || [];
+#+HTML_HEAD:   function gtag(){dataLayer.push(arguments);}
+#+HTML_HEAD:   gtag('js', new Date());
+#+HTML_HEAD:
+#+HTML_HEAD:   gtag('config', 'G-RVVYHN0DKK');
+#+HTML_HEAD: </script>
+#+OPTIONS: toc:nil num:0 html-postamble:nil
+#+language: ru
+#+keywords: виноград мускатный кишмиш саженцы черенки обрезка шолоховский калитва ростов
+
+Много лет занимаюсь разведением винограда.  С мая по октябрь приглашаю
+на дигустацию и экскурсию по винограднику, а в ноябре можно забрать
+черенки и саженцы.
+
+* Контакты
+** Телефон
++7 928 180 44 02
+** Часы работы
+С 8 до 20 ежедневно
+** Социальные сети
+*** [[https://t.me/+oxQL9JkNdVY4ODg5][Телеграм канал БеЛоза]]
+*** [[https://www.avito.ru/sholohovskiy/rasteniya/sazhentsy_vinograda_cherenki_7733121295][Авито]]
+
+** Адрес
+*** Почта
+347022 Ростовская область, п Шолоховский, ул. Степная, 27
+*** Карты
+**** [[https://maps.app.goo.gl/qjKVFEWzXDpingnk8][гугл карты]]
+**** [[https://yandex.ru/maps/-/CLvjqJot][яндекс карты]]
+**** [[https://www.openstreetmap.org/way/1447642265][OpenStreetMap]]
+
+*** Широта и долгота
+48.278130, 41.047499
+
+* Ассортимент
+В наличии более 50 сортов винограда (в том числе, кишмиш и мускатный).
+[[https://docs.google.com/spreadsheets/d/e/2PACX-1vTxC9AlmrG8F1fxggs6UiTfYlx7w9amb3_a_MN5IyfQDWDfSs5kx9hDU5sdIHSalLQzcRlzbEyJkmgU/pubhtml][Скачать актуальный список.]]
