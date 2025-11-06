@@ -9,6 +9,15 @@ h1 {
     text-align: center;
 }
 
+body a > img {
+    width: 80px;
+    display: inline;
+    margin: 0px;
+    padding: 1%;
+    border: 1px solid;
+    height: 80px;
+}
+
 body img {
     max-width: 95%;
     border-radius: 30px;

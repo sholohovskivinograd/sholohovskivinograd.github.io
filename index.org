@@ -49,12 +49,11 @@
 *** [[https://www.avito.ru/sholohovskiy/rasteniya/sazhentsy_vinograda_cherenki_7733121295][Авито]]
 
 ** Адрес
-*** Почта
+[[https://yandex.ru/maps/-/CLvjqJot][file:./images/YandexMaps.svg]]
+[[https://maps.app.goo.gl/qjKVFEWzXDpingnk8][file:./images/GoogleMaps.svg]]
+[[https://www.openstreetmap.org/way/1447642265][file:./images/OpenStreetMaps.svg]]
+
 347022 Ростовская область, п Шолоховский, ул. Степная, 27
-*** Карты
-**** [[https://maps.app.goo.gl/qjKVFEWzXDpingnk8][гугл карты]]
-**** [[https://yandex.ru/maps/-/CLvjqJot][яндекс карты]]
-**** [[https://www.openstreetmap.org/way/1447642265][OpenStreetMap]]
 
 * Ассортимент
 В наличии более 50 сортов винограда (в том числе, кишмиш и мускатный).
