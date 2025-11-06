@@ -40,10 +40,13 @@
 [[./images/ysn.jpg]]
 
 * Контакты
+Яицков Сергей Николаевич
 ** Телефон
-+7 928 180 44 02
+@@html: <a href="tel:+79281804402">+7 928 180 44 02</a>@@
+
 ** Часы работы
 С 8 до 20 ежедневно
+
 ** Социальные сети
 *** [[https://t.me/+oxQL9JkNdVY4ODg5][Телеграм канал БеЛоза]]
 *** [[https://www.avito.ru/sholohovskiy/rasteniya/sazhentsy_vinograda_cherenki_7733121295][Авито]]
@@ -53,7 +56,7 @@
 [[https://maps.app.goo.gl/qjKVFEWzXDpingnk8][file:./images/GoogleMaps.svg]]
 [[https://www.openstreetmap.org/way/1447642265][file:./images/OpenStreetMaps.svg]]
 
-347022 Ростовская область, п Шолоховский, ул. Степная, 27
+347022, Ростовская область, п. Шолоховский, ул. Степная, д. 27
 
 * Ассортимент
 В наличии более 50 сортов винограда (в том числе, кишмиш и мускатный).
