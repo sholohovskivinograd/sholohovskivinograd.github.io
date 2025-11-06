@@ -1,4 +1,6 @@
-user-agent: *
-allow: /*.html$
-allow: /$
-disallow: /
+User-agent: *
+Allow: /index.html$
+Allow: /*.html$
+Allow: /$
+Disallow: /
+Sitemap: https://sholohovskivinograd.github.io/sitemap.xml
