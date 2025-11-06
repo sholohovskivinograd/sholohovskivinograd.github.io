@@ -28,13 +28,15 @@
 #+HTML_HEAD: <noscript><div><img src="https://mc.yandex.ru/watch/105142018" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 #+HTML_HEAD: <!-- /Yandex.Metrika counter -->
 
-#+OPTIONS: toc:nil num:0 html-postamble:nil
+#+OPTIONS: toc:nil num:0 html-postamble:nil html-style:nil
 #+language: ru
 #+keywords: виноград мускатный кишмиш саженцы черенки обрезка шолоховский калитва ростов
 
 Много лет занимаюсь разведением винограда.  С мая по октябрь приглашаю
 на дегустацию и экскурсию по винограднику, а в ноябре можно забрать
 черенки и саженцы.
+
+[[./images/ysn.jpg]]
 
 * Контакты
 ** Телефон
@@ -59,3 +61,32 @@
 * Ассортимент
 В наличии более 50 сортов винограда (в том числе, кишмиш и мускатный).
 [[https://docs.google.com/spreadsheets/d/e/2PACX-1vTxC9AlmrG8F1fxggs6UiTfYlx7w9amb3_a_MN5IyfQDWDfSs5kx9hDU5sdIHSalLQzcRlzbEyJkmgU/pubhtml][Скачать актуальный список.]]
+
+** [[https://t.me/+MEHBaKuWpEhiZmIx][Ася]]
+[[./images/acia.jpg]]
+** [[https://t.me/+PNZP-4qMAzQzNGI5][Байконур]]
+[[./images/bajkonur.jpg]]
+** [[https://t.me/+aP48z8znPqA3M2Fh][Виктор]]
+[[./images/victor.jpg]]
+** [[https://t.me/+se-zqy4PuJtlNjJh][Гурман Ранний]]
+[[./images/gurman-ranij.jpg]]
+** [[https://t.me/+cG4U4Rpusc9jZGEx][Дубовский Розовый]]
+[[./images/dubovski-rozovy.jpg]]
+** Карнавал
+[[./images/karnaval.jpg]]
+** Ландыш
+[[./images/landysh.jpg]]
+** Ливия
+[[./images/livia.jpg]]
+** Монарх
+[[./images/monarh.jpg]]
+** Тасон
+[[./images/tason.jpg]]
+** [[https://t.me/+Le4rsL-2XudjN2Y5][Шарада]]
+[[./images/sharada.jpg]]
+** [[https://t.me/+actdkvXTivYxZDMx][Флора]]
+[[./images/flora.jpg]]
+** [[https://t.me/+0c6v8IJuDpk3YjVh][Черный Кристал]]
+[[./images/chorny-kristal.jpg]]
+** [[https://t.me/+iFoTW2LazWdhOWMx][Юпитер]]
+[[./images/upiter2.jpg]]
