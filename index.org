@@ -3,6 +3,8 @@
 #+date:   2025-11-10
 #+HTML_DOCTYPE: html5
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
+#+HTML_HEAD: <link rel="shortcut icon" href="favicon.svg" type="image/x-icon">
+
 #+HTML_HEAD: <script async src="https://www.googletagmanager.com/gtag/js?id=G-RVVYHN0DKK"></script>
 #+HTML_HEAD: <script>
 #+HTML_HEAD:   window.dataLayer = window.dataLayer || [];
