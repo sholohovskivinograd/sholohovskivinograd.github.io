@@ -2,6 +2,15 @@
 #+author: Яицков Сергей Николаевич
 #+date:   2025-11-11
 #+HTML_DOCTYPE: html5
+#+language: ru
+#+keywords: виноград мускатный кишмиш изюм косточки саженцы черенки обрезка шолоховский калитва ростов белокалитвинский ягоды кислый сладкий укрывной ранний неукрывной поздний
+#+description: Виноградарь Яицков Сергей Николаевич продает свои плоды, саженцы и черенки винограда (более 50 сортов), дает консультации по агротехнике виноградарства.
+#+OPTIONS: toc:nil num:0 html-postamble:nil html-style:nil
+#+HTML_HEAD: <meta name="geo.region" content="RU-ROS" />
+#+HTML_HEAD: <meta name="geo.placename" content="Белая Калитва" />
+#+HTML_HEAD: <meta name="geo.position" content="48.278038;41.047738" />
+#+HTML_HEAD: <meta name="icbm" content="48.278038, 41.047738" />
+
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
 #+HTML_HEAD: <link rel="shortcut icon" href="favicon.svg" type="image/x-icon">
 
@@ -27,11 +36,6 @@
 #+HTML_HEAD: </script>
 #+HTML_HEAD: <noscript><div><img src="https://mc.yandex.ru/watch/105142018" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 #+HTML_HEAD: <!-- /Yandex.Metrika counter -->
-
-#+OPTIONS: toc:nil num:0 html-postamble:nil html-style:nil
-#+language: ru
-#+keywords: виноград мускатный кишмиш изюм косточки саженцы черенки обрезка шолоховский калитва ростов белокалитвинский ягоды кислый сладкий укрывной ранний неукрывной поздний
-#+description: Виноградарь Яицков Сергей Николаевич продает свои плоды, саженцы и черенки винограда (более 50 сортов), дает консультации по агротехнике виноградарства.
 
 Много лет занимаюсь разведением винограда.  С мая по октябрь приглашаю
 на дегустацию и экскурсию по винограднику, а в ноябре можно забрать
