@@ -92,8 +92,8 @@
 [[./images/upiter2.jpg]]
 
 
-#+ATTR_HTML: :align center
-[[https://sholohovskivinograd.github.io/][file:./favicon.svg]]
 
 #+ATTR_HTML: :align center
 [[https://sholohovskivinograd.github.io/][2025 г.]]
+
+@@html: <img style="width: 9%;" src="./favicon.svg"/>@@
