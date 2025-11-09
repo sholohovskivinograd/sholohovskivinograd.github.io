@@ -10,7 +10,7 @@
 #+HTML_HEAD: <meta name="geo.placename" content="Белая Калитва" />
 #+HTML_HEAD: <meta name="geo.position" content="48.278038;41.047738" />
 #+HTML_HEAD: <meta name="icbm" content="48.278038, 41.047738" />
-
+#+HTML_HEAD: <meta name="zen-verification" content="MpCDvbY1rzofxpVskc6F2lCk1inSpuX6b4EQFkAlT8GKKwm3C3esxxoEYSjz7NQU" />
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
 #+HTML_HEAD: <link rel="shortcut icon" href="favicon.svg" type="image/x-icon">
 
