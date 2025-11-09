@@ -6,6 +6,14 @@ body {
     color: white;
 }
 
+#cusdis_thread {
+    display: flex;
+    height: 20em; // you can change to different value
+}
+#cusdis_thread label {
+    color: white;
+}
+
 body a {
     color: #b4e8f7;
 }

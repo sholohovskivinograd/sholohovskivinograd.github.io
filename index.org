@@ -106,7 +106,19 @@
 ** Юпитер
 [[./images/upiter2.jpg]]
 
+* Обратная связь
 
+@@html:
+<div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="303b6bcd-5341-4d0a-add2-fa9ff1274c4c"
+  data-page-id="303b6bcd-5341-4d0a-add2-fa9ff1274c4c"
+  data-page-url="https://sholohovskivinograd.github.io/"
+  data-page-title="Шолоховский виноград, черенки и саженцы"
+></div>
+<script defer src="https://cusdis.com/js/widget/lang/ru.js"></script>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+@@
 
 #+ATTR_HTML: :align center
 [[https://sholohovskivinograd.github.io/][2025 г.]]
