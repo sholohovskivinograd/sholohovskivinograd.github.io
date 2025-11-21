@@ -14,6 +14,11 @@ body {
     color: white;
 }
 
+body p {
+    hyphens: auto;
+    text-align: justify;
+}
+
 body a {
     color: #b4e8f7;
 }
@@ -43,4 +48,41 @@ body img {
 body h3 {
     margin: 0px important;
     margin-block-end: 0px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.colors tr td {
+    border: none;
+}
+.colors tr {
+    background-color: darkgrey;
+    color: black;
+}
+
+.colors tr + tr  {
+    background-color: blue
+}
+
+.colors tr + tr + tr  {
+    background-color: red
+}
+
+.colors tr + tr + tr + tr {
+    background-color: green
+}
+
+
+td {
+    border: 1px solid;
+    text-align: center;
+    padding: 7px 7px;
+}
+
+td + td {
+    text-align: left;
+    padding-left: 23px;
 }
